@@ -1,0 +1,14 @@
+#hun{
+    background-image: url(./img/wal.jpg);
+    background-size: cover;
+    color:white;
+    text-shadow: 3px 3px black;
+    text-transform: capitalize;
+    }
+body{
+    background-color: #D36B00;
+}
+#bf{
+    background-color: #2f3033;
+    color: white;
+}
